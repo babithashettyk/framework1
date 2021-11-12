@@ -10,4 +10,7 @@ public class TestClass{
     public class func testOne(){
         
     }
+    public class func testTwo(){
+        
+    }
 }
