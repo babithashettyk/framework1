@@ -19,4 +19,7 @@ public class TestClass{
     public class func testFour(){
         
     }
+    public class func testFive(){
+        
+    }
 }
