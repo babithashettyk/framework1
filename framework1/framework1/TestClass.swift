@@ -11,7 +11,7 @@ public class TestClass{
         print("hello")
     }
     public class func testTwo(){
-        
+        print("hello1")
     }
     public class func testThree(){
         
