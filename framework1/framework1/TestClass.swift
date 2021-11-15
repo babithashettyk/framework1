@@ -22,4 +22,7 @@ public class TestClass{
     public class func testFive(){
         print("im in five")
     }
+    public class func testSix(){
+        print("im in six")
+    }
 }
