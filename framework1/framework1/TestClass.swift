@@ -26,6 +26,6 @@ public class TestClass{
         print("im in six")
     }
     public class func testSeven(){
-        print("im in seven")
+        print("im in seventh function")
     }
 }
