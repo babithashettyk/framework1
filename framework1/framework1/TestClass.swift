@@ -25,7 +25,5 @@ public class TestClass{
     public class func testSix(){
         print("im in sixth function")
     }
-    public class func testSeven(){
-        print("im in seventh function")
-    }
+   
 }
