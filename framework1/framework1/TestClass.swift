@@ -20,7 +20,7 @@ public class TestClass{
         print("im in four")
     }
     public class func testFive(){
-        print("im in five")
+        print("im in fifth function")
     }
     public class func testSix(){
         print("im in sixth function")
