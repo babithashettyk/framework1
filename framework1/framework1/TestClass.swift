@@ -8,7 +8,7 @@
 import Foundation
 public class TestClass{
     public class func testOne(){
-        print("hello")
+        print("in im function one")
     }
     public class func testTwo(){
         print("hello1")
