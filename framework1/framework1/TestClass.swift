@@ -29,7 +29,7 @@ public class TestClass{
         print("im in eigth function")
     }
     public class func testNine(){
-        print("im in nine function")
+        print("im in ninth function")
     }
 
     
