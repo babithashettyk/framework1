@@ -14,7 +14,7 @@ public class TestClass{
         print("in function two")
     }
     public class func testThree(){
-        print("im in three")
+        print("im in third function")
     }
     public class func testFour(){
         print("im in fourth function")
