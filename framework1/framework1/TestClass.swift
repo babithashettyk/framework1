@@ -22,18 +22,7 @@ public class TestClass{
     public class func testFive(){
         print("im in fifth function")
     }
-    public class func testSeven(){
-        print("im in fifth function")
-    }
-    public class func testEight (){
-        print("im in ninth function")
-    }
-    public class func testNine(){
-        print("im in ninth function")
-    }
-    public class func testTen(){
-        print("im in ninth function")
-    }
+    
     
 
     
