@@ -22,6 +22,9 @@ public class TestClass{
     public class func testFive(){
         print("im in fifth function")
     }
+    public class func testSix(){
+        print("im in fifth function")
+    }
     
     
 
