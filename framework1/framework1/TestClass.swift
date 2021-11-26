@@ -19,24 +19,5 @@ public class TestClass{
     public class func testFour(){
         print("im in fourth function")
     }
-<<<<<<< HEAD
-    
-    
-=======
-    public class func testFive(){
-        print("im in fifth function")
-    }
-    public class func testSix(){
-        print("im in fifth function")
-    }
-    public class func testSeven(){
-        print("im in fifth function")
-    }
-    public class func testEight(){
-        print("im in fifth function")
-    }
->>>>>>> main
-    
-    
    
 }
