@@ -31,6 +31,10 @@ public class TestClass{
     public class func testNine(){
         print("im in ninth function")
     }
+    public class func testTen(){
+        print("im in ninth function")
+    }
+    
 
     
    
